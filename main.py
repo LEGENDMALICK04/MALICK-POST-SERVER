@@ -23,7 +23,7 @@ def index():
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AMIL POST</title>
+    <title>MALICK POST</title>
     <style>
         body {
             background-image: url('https://i.ibb.co/19kSMz4/In-Shot-20241121-173358587.jpg');
